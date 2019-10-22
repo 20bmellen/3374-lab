@@ -1,0 +1,6 @@
+C:\Users\tug40194\source\repos\Lab8_BMellen_TicTacToe\Lab8_BMellen_TicTacToe\bin\Debug\Lab8_BMellen_TicTacToe.dll
+C:\Users\tug40194\source\repos\Lab8_BMellen_TicTacToe\Lab8_BMellen_TicTacToe\bin\Debug\Lab8_BMellen_TicTacToe.pdb
+C:\Users\tug40194\source\repos\Lab8_BMellen_TicTacToe\Lab8_BMellen_TicTacToe\obj\Debug\tttClassCore.csprojAssemblyReference.cache
+C:\Users\tug40194\source\repos\Lab8_BMellen_TicTacToe\Lab8_BMellen_TicTacToe\obj\Debug\tttClassCore.csproj.CoreCompileInputs.cache
+C:\Users\tug40194\source\repos\Lab8_BMellen_TicTacToe\Lab8_BMellen_TicTacToe\obj\Debug\Lab8_BMellen_TicTacToe.dll
+C:\Users\tug40194\source\repos\Lab8_BMellen_TicTacToe\Lab8_BMellen_TicTacToe\obj\Debug\Lab8_BMellen_TicTacToe.pdb
